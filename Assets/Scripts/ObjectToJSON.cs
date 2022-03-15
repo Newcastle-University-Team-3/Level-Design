@@ -71,8 +71,8 @@ class ObjectToJSON : MonoBehaviour
                         continue;
                     }
 
-                    if (!colonCheck)
-                        continue;
+                    //if (!colonCheck)
+                    //    continue;
 
                     if (c == ' ')
                         break;
